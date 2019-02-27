@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="69298" started-at="2019-02-27T15:13:12Z" finished-at="2019-02-27T15:14:21Z">
+    <groups>
+    </groups>
+    <test name="First test" duration-ms="69298" started-at="2019-02-27T15:13:12Z" finished-at="2019-02-27T15:14:21Z">
+      <class name="selenium_grid.GridTest">
+        <test-method status="PASS" signature="bmethod()[pri:0, instance:selenium_grid.GridTest@d8355a8]" name="bmethod" is-config="true" duration-ms="5" started-at="2019-02-27T15:13:12Z" finished-at="2019-02-27T15:13:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethod -->
+        <test-method status="PASS" signature="bmethod()[pri:0, instance:selenium_grid.GridTest@d8355a8]" name="bmethod" is-config="true" duration-ms="5" started-at="2019-02-27T15:13:12Z" finished-at="2019-02-27T15:13:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethod -->
+        <test-method status="PASS" signature="bmethod()[pri:0, instance:selenium_grid.GridTest@d8355a8]" name="bmethod" is-config="true" duration-ms="5" started-at="2019-02-27T15:13:12Z" finished-at="2019-02-27T15:13:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethod -->
+        <test-method status="PASS" signature="bmethod()[pri:0, instance:selenium_grid.GridTest@d8355a8]" name="bmethod" is-config="true" duration-ms="5" started-at="2019-02-27T15:13:12Z" finished-at="2019-02-27T15:13:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethod -->
+        <test-method status="PASS" signature="bmethod()[pri:0, instance:selenium_grid.GridTest@d8355a8]" name="bmethod" is-config="true" duration-ms="5" started-at="2019-02-27T15:13:12Z" finished-at="2019-02-27T15:13:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethod -->
+        <test-method status="PASS" signature="am()[pri:0, instance:selenium_grid.GridTest@d8355a8]" name="am" duration-ms="69195" started-at="2019-02-27T15:13:12Z" finished-at="2019-02-27T15:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method status="PASS" signature="cm()[pri:0, instance:selenium_grid.GridTest@d8355a8]" name="cm" duration-ms="69202" started-at="2019-02-27T15:13:12Z" finished-at="2019-02-27T15:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cm -->
+        <test-method status="PASS" signature="bm()[pri:0, instance:selenium_grid.GridTest@d8355a8]" name="bm" duration-ms="69268" started-at="2019-02-27T15:13:12Z" finished-at="2019-02-27T15:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="em()[pri:0, instance:selenium_grid.GridTest@d8355a8]" name="em" duration-ms="69258" started-at="2019-02-27T15:13:12Z" finished-at="2019-02-27T15:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- em -->
+        <test-method status="PASS" signature="dm()[pri:0, instance:selenium_grid.GridTest@d8355a8]" name="dm" duration-ms="69224" started-at="2019-02-27T15:13:12Z" finished-at="2019-02-27T15:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dm -->
+        <test-method status="PASS" signature="amethod()[pri:0, instance:selenium_grid.GridTest@d8355a8]" name="amethod" is-config="true" duration-ms="0" started-at="2019-02-27T15:14:21Z" finished-at="2019-02-27T15:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amethod -->
+        <test-method status="PASS" signature="amethod()[pri:0, instance:selenium_grid.GridTest@d8355a8]" name="amethod" is-config="true" duration-ms="0" started-at="2019-02-27T15:14:21Z" finished-at="2019-02-27T15:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amethod -->
+        <test-method status="PASS" signature="amethod()[pri:0, instance:selenium_grid.GridTest@d8355a8]" name="amethod" is-config="true" duration-ms="0" started-at="2019-02-27T15:14:21Z" finished-at="2019-02-27T15:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amethod -->
+        <test-method status="PASS" signature="amethod()[pri:0, instance:selenium_grid.GridTest@d8355a8]" name="amethod" is-config="true" duration-ms="1" started-at="2019-02-27T15:14:21Z" finished-at="2019-02-27T15:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amethod -->
+        <test-method status="PASS" signature="amethod()[pri:0, instance:selenium_grid.GridTest@d8355a8]" name="amethod" is-config="true" duration-ms="0" started-at="2019-02-27T15:14:21Z" finished-at="2019-02-27T15:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amethod -->
+        <test-method status="PASS" signature="atest()[pri:0, instance:selenium_grid.GridTest@d8355a8]" name="atest" is-config="true" duration-ms="0" started-at="2019-02-27T15:14:21Z" finished-at="2019-02-27T15:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+      </class> <!-- selenium_grid.GridTest -->
+    </test> <!-- First test -->
+  </suite> <!-- Suite -->
+</testng-results>

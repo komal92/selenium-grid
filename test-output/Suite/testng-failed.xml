@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="First test(failed)" parallel="methods">
+    <classes>
+      <class name="selenium_grid.GridTest">
+        <methods>
+          <include name="cm"/>
+          <include name="am"/>
+          <include name="bm"/>
+          <include name="bmethod"/>
+          <include name="atest"/>
+          <include name="amethod"/>
+          <include name="em"/>
+        </methods>
+      </class> <!-- selenium_grid.GridTest -->
+    </classes>
+  </test> <!-- First test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
